@@ -14,7 +14,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/nurulaamalia/note-app-project.git
+   git clone https://github.com/nurulaamalia/progate-react-native-note-app.git
 2. **Navigate to the project directory:**
    ```bash
    cd ProgateNoteApp
